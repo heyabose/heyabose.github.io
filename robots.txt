@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://heyabose.github.io/sitemap/sitemap_index.heyabose
+Sitemap: https://heyabose.github.io/cBp/sitemap_index.heyabose
+Sitemap: https://heyabose.github.io/jYu/sitemap_index.heyabose
+Sitemap: https://heyabose.github.io/Asw/sitemap_index.heyabose
+Sitemap: https://heyabose.github.io/WHj/sitemap_index.heyabose
+Sitemap: https://heyabose.github.io/LkK/sitemap_index.heyabose
+Sitemap: https://heyabose.github.io/LqG/sitemap_index.heyabose
+Sitemap: https://heyabose.github.io/anb/sitemap_index.heyabose
+Sitemap: https://heyabose.github.io/xDM/sitemap_index.heyabose
+Sitemap: https://heyabose.github.io/ueV/sitemap_index.heyabose
+Sitemap: https://heyabose.github.io/wTe/sitemap_index.heyabose
+Sitemap: https://heyabose.github.io/ycl/sitemap_index.heyabose
+Sitemap: https://heyabose.github.io/Xcf/sitemap_index.heyabose
+Sitemap: https://heyabose.github.io/jTp/sitemap_index.heyabose
+Sitemap: https://heyabose.github.io/rfn/sitemap_index.heyabose
+Sitemap: https://heyabose.github.io/acN/sitemap_index.heyabose
+Sitemap: https://heyabose.github.io/bwR/sitemap_index.heyabose
+Sitemap: https://heyabose.github.io/pHT/sitemap_index.heyabose
+Sitemap: https://heyabose.github.io/UDt/sitemap_index.heyabose
+Sitemap: https://heyabose.github.io/cJM/sitemap_index.heyabose
+Sitemap: https://heyabose.github.io/qth/sitemap_index.heyabose
